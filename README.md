@@ -2,7 +2,7 @@
 
 I love Side Projects. I learn a lot through Side Projects. So I decidede to follow the idea of @zachleat to make [my idea book public](https://github.com/zachleat/idea-book).
 
-I created an issue for every idea, you can vote for each one of them, and see [the top ideas](https://github.com/tzi/idea-book/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
+I created an issue for every idea, you can vote for each one of them, and see [the top ideas](https://github.com/tzi/idea-book/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 
 
 ## Ideas
