@@ -1,23 +1,17 @@
 # idea-book
 
-I love Side Projects. I learn through Side Projects. I [gave a presentation](https://speakerdeck.com/zachleat/side-projects) on why I think Side Projects are important.
+I love Side Projects. I learn a lot through Side Projects. So I decidede to follow the idea of @zachleat to make [my idea book public](https://github.com/zachleat/idea-book).
 
-An important part of brainstorming ideas for Side Projects is to have an Idea Book. I’ve decided to make my Idea Book public. Ideas are logged as [issues (sorted by 👍)](https://github.com/zachleat/idea-book/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc). This is simply a dump of ideas for Side Projects that I’m putting out here for public feedback. I welcome your comments and votes 👍 or 👎 on project ideas.
+I created an issue for every idea, you can vote for each one of them, and see [the top ideas](https://github.com/tzi/idea-book/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc)
 
-## Completed Ideas
 
-* [Selecthor, a tool to demo CSS selectors](https://github.com/zachleat/idea-book/issues/10)
-* [Randsom, a web fonts stress test](https://github.com/zachleat/idea-book/issues/11)
-* [Bernie Tweets, put your tweet on Bernie’s poster](https://github.com/zachleat/idea-book/issues/12)
+## Ideas
+
+* [CSS Cross Ref](https://github.com/tzi/idea-book/issues/1): A website to find the reference links for a given CSS property (spec, mdn, caniuse, browser status)
+* [Mini Sigma](https://github.com/tzi/idea-book/issues/2): An open source tool to create and use calcsheet, but without being a 2D spreadsheet.
+* [CSS talks](https://github.com/tzi/idea-book/issues/3): A website to find CSS talks across time, countries and conferences
+
 
 ## [License](LICENSE)
 
 All of the ideas listed here are licensed under https://creativecommons.org/licenses/by/4.0/ Feel free to take one and work on it!
-
-## Do you have an idea book?
-
-Send it to me and I’ll add it below:
-
-* [@mattdsteele/side-projects](https://github.com/mattdsteele/side-projects)
-* [@jesseyuen/ideas](https://github.com/jesseyuen/ideas)
-* [@nhoizey/idea-book](https://github.com/nhoizey/idea-book/)
